@@ -7,7 +7,7 @@ WITH SERDEPROPERTIES (
 "quoteChar" = "\""
 ) STORED AS TEXTFILE;
 
-LOAD DATA LOCAL INPATH '/home/shubha/PROJECT/sample.csv' OVERWRITE INTO TABLE h1b_1;
+LOAD DATA LOCAL INPATH '/home/shubha/PROJECT/h1b.csv' OVERWRITE INTO TABLE h1b_1;
 
 
  describe h1b_1;
