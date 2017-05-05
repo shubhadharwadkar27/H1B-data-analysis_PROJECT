@@ -1,0 +1,36 @@
+s_no                	string              	from deserializer   
+case_status         	string              	from deserializer   
+employer_name       	string              	from deserializer   
+soc_name            	string              	from deserializer   
+job_title           	string              	from deserializer   
+full_time_position  	string              	from deserializer   
+prevailing_wage     	string              	from deserializer   
+year                	string              	from deserializer   
+worksite            	string              	from deserializer   
+longitute           	string              	from deserializer   
+latitute            	string              	from deserializer   
+TATA CONSULTANCY SERVICES LIMITED	5365	2011
+MICROSOFT CORPORATION	3898	2011
+DELOITTE CONSULTING LLP	3509	2011
+WIPRO LIMITED	2905	2011
+COGNIZANT TECHNOLOGY SOLUTIONS U.S. CORPORATION	2477	2011
+INFOSYS LIMITED	15409	2012
+WIPRO LIMITED	6816	2012
+TATA CONSULTANCY SERVICES LIMITED	6692	2012
+DELOITTE CONSULTING LLP	4706	2012
+MICROSOFT CORPORATION	3718	2012
+INFOSYS LIMITED	32031	2013
+TATA CONSULTANCY SERVICES LIMITED	8701	2013
+WIPRO LIMITED	6442	2013
+DELOITTE CONSULTING LLP	5913	2013
+ACCENTURE LLP	4823	2013
+INFOSYS LIMITED	23753	2014
+TATA CONSULTANCY SERVICES LIMITED	13972	2014
+WIPRO LIMITED	7266	2014
+DELOITTE CONSULTING LLP	6978	2014
+ACCENTURE LLP	5443	2014
+INFOSYS LIMITED	33216	2015
+TATA CONSULTANCY SERVICES LIMITED	16435	2015
+WIPRO LIMITED	10519	2015
+ACCENTURE LLP	9472	2015
+IBM INDIA PRIVATE LIMITED	9027	2015
